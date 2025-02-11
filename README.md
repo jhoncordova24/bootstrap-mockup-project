@@ -1,4 +1,3 @@
-#Bootstrap Mockup Project
 Este es un proyecto de maqueta web moderna y responsiva construida completamente con Bootstrap. Está diseñado para demostrar una estructura de diseño limpia y organizada, ideal para mostrar ideas o prototipar diseños web.
 
 ## 📸 Capturas de Pantalla
