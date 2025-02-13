@@ -6,9 +6,9 @@ This is a modern, responsive web mockup project built entirely with Bootstrap. I
 ![Image](https://github.com/user-attachments/assets/16a126f7-89fb-4c32-bc95-adc06cf64a86)
 
 ## 🚀 Characteristics
-- Diseño completamente responsivo 📱💻.
-- Construido con Bootstrap para una estructura modular y escalable.
-- Organización limpia del código y archivos.
+- Fully responsive design 📱💻.
+- Built with Bootstrap for a modular and scalable structure.
+- Clean code and file organization.
   
 ## 🛠️ Technologies Used
 - HTML5: Base structure of the project.
